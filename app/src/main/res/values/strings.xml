@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="card_view_name">Name</string>
+    <string name="card_view_desc">Description</string>
+    <string name="card_view_save">Save</string>
+    <string name="card_view_Cancel">Cancel</string>
+    <string name="to_do">TO-DO</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="change_description">Change Description</string>
+    <string name="calender">Calender</string>
+    <string name="description">Description</string>
+    <string name="date">date</string>
+    <string name="date_time_text">mm/dd/yyyy 00:00</string>
+    <string name="done_check_box">Done?</string>
+    <string name="name">Name</string>
+</resources>
